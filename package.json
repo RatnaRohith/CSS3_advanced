@@ -1,0 +1,27 @@
+{
+  "name": "css-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RatnaRohith/CSS3_advanced.git"
+  },
+  "keywords": [
+    "Css",
+    "page"
+  ],
+  "author": "Tony Boddukuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RatnaRohith/CSS3_advanced/issues"
+  },
+  "homepage": "https://github.com/RatnaRohith/CSS3_advanced#readme"
+}
